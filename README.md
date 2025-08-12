@@ -2,6 +2,7 @@
 ## This system image is supposed to be flashed alongside ``https://github.com/team-slide/y1-ata-rom/releases/tag/20250801`` firmware
 ### Includes chainfire supersu as before, but also viper4android driver preconfigured and a working busybox binary as dependency for v4a.
 #### Based on wifi enabled firmware! You can now check out cat images @web.
+##### Type_A firmware!
 
 > Viper4Android should be installed as user app seperately ``adb install com.audlabs.viperfx.apk`` in order to be accessible through rockbox.
 > After installation, v4a should work just fine.
